@@ -99,7 +99,6 @@
   background-color: #dddddd;
   padding: 20px 40px;
   display: flex;
-  justify-content: space-between;
 }
 .form-input {
   background-color: white;
